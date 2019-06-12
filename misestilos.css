@@ -4,5 +4,5 @@ p {line-height: 1.5; margin-bottom: 15px; font-size: 20px; }
 body {background-color: lightpink ; color: black; text-align: center;}
 #autor { font-style: italic ; margin-bottom: 30px;font-family: 'Eczar', serif;
     font-family: 'Kurale', serif;}
-    
+  #cancion {margin: auto; padding: 20px 0; text-align: left; width: 400px;}  
 
