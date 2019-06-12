@@ -2,4 +2,7 @@ p {line-height: 1.5; margin-bottom: 15px; font-size: 20px; }
 #texto1 { font-size: 20px; }
 .titulo {font-size: 50px ; font-family: 'Eczar', serif; }
 body {background-color: lightpink ; color: black; text-align: center;}
+#autor { font-style: italic ; margin-bottom: 30px;font-family: 'Eczar', serif;
+    font-family: 'Kurale', serif;}
+    
 
