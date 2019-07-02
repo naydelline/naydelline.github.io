@@ -51,3 +51,18 @@ h1 {
             padding: 20px;
             border-top: 2px solid #b10f0f;
         }
+        article footer {
+            background: #FFFBCC;
+            border: 1px solid #999999;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+        article footer {
+            text-align: right;
+        }
+        time {
+            color: #f7e712;
+        }
+        figcaption {
+            font: italic 14px verdana, sans-serif;
+        }
